@@ -1,2 +1,4 @@
 # hello-world
-Jus another repository
+Just another repository
+
+Should I re-apply for Founders and Coders?
